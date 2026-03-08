@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Lenguajes y tecnologias</h2>
+<h2 align="left">Lenguajes y tecnologías</h2>
 
 ###
 
